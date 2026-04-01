@@ -1,4 +1,5 @@
-# Piggy
+# PiggyVault
+
 
 [![Flutter](https://github.com/piggyvault/piggyvault/actions/workflows/flutter.yml/badge.svg)](https://github.com/piggyvault/piggyvault/actions/workflows/flutter.yml)
 [![.NET](https://github.com/piggyvault/piggyvault/actions/workflows/dotnet.yml/badge.svg)](https://github.com/piggyvault/piggyvault/actions/workflows/dotnet.yml)
